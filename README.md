@@ -1,5 +1,9 @@
 Análise de dados de uma empresa de Stream da Índia
 
+Bibliotecas utilizadas:
+- pandas
+- plotly.express
+
 Objetivo: Essa análise busca entender o motivo dos cancenlamentos recorrentes e propor soluções para tratar cancelamentos posteiores
 
 Padrões observados:
